@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\bin\Debug\ArraysNiceM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\bin\Debug\ArraysNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\bin\Debug\ArraysNiceM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.frmArrayAverage.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\ArraysNiceM\ArraysNiceM\obj\Debug\ArraysNiceM.pdb
